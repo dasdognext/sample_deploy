@@ -1,0 +1,3 @@
+# lambdawarmer==2.0.3  # Added via layer-custom.sh (local package, not on PyPI)
+pycryptodome>=3.20.0
+pytest>=8.3.4
