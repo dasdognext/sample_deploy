@@ -12,6 +12,7 @@
 # string, the authorizer function returns an HTTP 401 status code. For any other token value,
 # the authorizer returns an HTTP 500 status code.
 # Note that token values are case-sensitive.
+# D: is live
 
 import json
 import lambda_logger_format
