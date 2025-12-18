@@ -9,8 +9,6 @@ echo "--- Warmer Event Test ---"
 
 # Define the event payload
 EVENT_PAYLOAD='{
-    "warmer": true,
-    "concurrency": 1
 }'
 
 echo "Request payload:"
